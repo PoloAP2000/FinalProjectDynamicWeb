@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\migrations\\20240410145258_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\migrations\\20240410145258_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\views\\session\\createsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\session\\createsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\implementation\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\implementation\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\models\\att-session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\att-session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|c:\\users\\paula\\desktop\\cours usj\\dynamic web\\sourcetreerepo\\finalproject\\finalproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBBB61-DEE1-4E8E-A827-E19CDCF66B49}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240410145258_UserMigration.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Migrations\\20240410145258_UserMigration.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Migrations\\20240410145258_UserMigration.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Migrations\\20240410145258_UserMigration.cs",
+              "RelativeToolTip": "FinalProject\\Migrations\\20240410145258_UserMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:52:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Views\\Session\\CreateSession.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Session\\CreateSession.cshtml",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Views\\Session\\CreateSession.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Session\\CreateSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:37:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:33:53.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:20:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:16:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\appsettings.json",
+              "RelativeToolTip": "FinalProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T14:05:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\UserDBContext.cs",
+              "RelativeToolTip": "FinalProject\\Models\\UserDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:54:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:15:41.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Implementation\\MockUserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Implementation\\MockUserRepository.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Implementation\\MockUserRepository.cs",
+              "RelativeToolTip": "FinalProject\\Implementation\\MockUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:38:03.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "FinalProject\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:33:31.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Attendee.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Attendee.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Attendee.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Attendee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:28:22.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\User.cs",
+              "RelativeToolTip": "FinalProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:17:39.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Att-Session.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Att-Session.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Att-Session.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Att-Session.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Att-Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:26:50.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\paula\\Desktop\\Cours USJ\\Dynamic Web\\SourceTreeRepo\\FinalProject\\FinalProject\\Models\\Session.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:24:38.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
