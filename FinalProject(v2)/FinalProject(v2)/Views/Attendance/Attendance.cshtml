@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendance Login</title>
+</head>
+<body>
+    <h1>Attendance Login</h1>
+
+    <!-- Search textbox for phone numbers -->
+    <label for="searchPhoneNumber">Search by Phone Number:</label>
+    <input type="text" id="searchPhoneNumber" name="searchPhoneNumber">
+
+    <button onclick="searchAttendance()">Search</button>
+
+    <hr>
+
+    <!-- Separate set of textboxes -->
+    <h2>Enter Your Information</h2>
+    <form id="attendanceForm">
+        <label for="fullName">Full Name:</label>
+        <input type="text" id="fullName" name="fullName" required><br><br>
+
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="text" id="phoneNumber" name="phoneNumber" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="town">Town:</label>
+        <select id="town" name="town">
+            <option value="town1">Town 1</option>
+            <option value="town2">Town 2</option>
+            <option value="town3">Town 3</option>
+            <!-- Add more town options as needed -->
+        </select><br><br>
+
+        <label for="bloodType">Blood Type:</label>
+        <select id="bloodType" name="bloodType">
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+            <!-- Add more blood type options as needed -->
+        </select><br><br>
+
+        <button asp-route="Index" type="submit">Register</button>
+    </form>
+
+    <!-- JavaScript for search functionality -->
+    <script>
+        function searchAttendance() {
+            var phoneNumber = document.getElementById("searchPhoneNumber").value;
+            // Add logic to search attendance by phone number
+            console.log("Searching attendance for phone number: " + phoneNumber);
+        }
+
+        document.getElementById("attendanceForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            var formData = new FormData(event.target);
+            // Add logic to submit attendance form data
+            console.log("Form submitted with data:", formData);
+        });
+    </script>
+</body>
+</html>

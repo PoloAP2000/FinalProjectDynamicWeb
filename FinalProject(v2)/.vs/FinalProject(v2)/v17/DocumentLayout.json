@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\views\\session\\createsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\views\\session\\createsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\views\\attendance\\attendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\views\\attendance\\attendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\implementation\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\implementation\\mockuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\att-session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\att-session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|c:\\users\\paula\\source\\repos\\finalproject(v2)\\finalproject(v2)\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C38EBB1-4718-497F-805B-A6C2D23DEC09}|FinalProject(v2)\\FinalProject(v2).csproj|solutionrelative:finalproject(v2)\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:09:14.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Session\\CreateSession.cshtml",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Views\\Session\\CreateSession.cshtml",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Session\\CreateSession.cshtml",
+              "RelativeToolTip": "FinalProject(v2)\\Views\\Session\\CreateSession.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:03:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "FinalProject(v2)\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T13:52:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:09:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Attendee.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\Attendee.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Attendee.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\Attendee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:05.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalProject(v2)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T11:15:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Attendance\\Attendance.cshtml",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Views\\Attendance\\Attendance.cshtml",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Views\\Attendance\\Attendance.cshtml",
+              "RelativeToolTip": "FinalProject(v2)\\Views\\Attendance\\Attendance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:11:50.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:12.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Controllers\\APIController.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Controllers\\APIController.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Controllers\\APIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:03:59.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MockUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Implementation\\MockUserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Implementation\\MockUserRepository.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Implementation\\MockUserRepository.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Implementation\\MockUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:07:03.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Login.cshtml.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\Login.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:19:00.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Program.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Program.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:14:16.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\User.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:39.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:08:12.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\UserDBContext.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\UserDBContext.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\UserDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:15:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\appsettings.json",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\appsettings.json",
+              "RelativeToolTip": "FinalProject(v2)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T12:12:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Att-Session.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Att-Session.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\Att-Session.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Att-Session.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\Att-Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "FinalProject(v2)\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\paula\\source\\repos\\FinalProject(v2)\\FinalProject(v2)\\Models\\Session.cs",
+              "RelativeToolTip": "FinalProject(v2)\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:34.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
